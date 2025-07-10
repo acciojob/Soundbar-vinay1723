@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const sounds = ['clap', 'kick', 'snare', 'boom'];
+const sounds = ['applause', 'boo', 'gasp', 'tada','victory','wrong'];
 
 const audioElements = {};
 
