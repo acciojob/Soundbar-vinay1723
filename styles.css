@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+button[type="button"]{
+	background-color:#663399;
+	padding: 10px 15px;
+}
